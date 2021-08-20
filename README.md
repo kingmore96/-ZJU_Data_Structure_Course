@@ -9,5 +9,8 @@ Hope I can learn this course well and that I can make good performance in my wor
 This is the MOOC website :  
 https://www.icourse163.org/course/ZJU-93001
 
+This is the PTA, a online jude system provided by ZJU.
+https://pintia.cn
+
 This repository is all about my practicing code when learning this course.
 
